@@ -1,2 +1,3 @@
 this is new.txt file
 this is two line
+add one line.
